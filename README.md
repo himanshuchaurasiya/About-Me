@@ -20,5 +20,5 @@
 - Performance Optimization Tools
 
 ## 📫 Connect with me
-- LinkedIn: (your link)
-- Email: (optional)
+- LinkedIn: https://www.linkedin.com/in/himanshu-chaurasiya-6871b616a/
+- Email: himanshuchaurasia195@gmail.com
