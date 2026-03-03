@@ -1,6 +1,6 @@
 # Hi, I'm Himanshu 👋
 
-🚀 WordPress Plugin Developer with 4+ years of experience  
+🚀 WordPress Plugin Developer with 5+ years of experience  
 🧩 WooCommerce | Custom Plugins | REST API  
 ⚡ Performance, Security & Clean Architecture
 
@@ -12,6 +12,7 @@
 - Custom Post Types & Taxonomies
 - MySQL & WPDB
 - Git & GitHub
+- Custom Funcationality Development
 
 ## 📂 Featured Projects
 - Tutor LMS Enhancements (Custom Hooks, Notifications)
